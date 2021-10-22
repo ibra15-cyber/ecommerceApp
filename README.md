@@ -1,3 +1,1 @@
-# ecommerceProject
-# ecommerceProject
-# ecommerceProject
+Ecommerce App as a school project
